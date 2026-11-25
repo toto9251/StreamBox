@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Sensitive user credentials & local configurations
+auth_credentials.json
+.env
+*.env
+
+# Browser profile and session data
+playwright_data/
+browser_data/
+chrome_profile/
+
+# Downloads directory
+downloads/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+*.egg
+
+# Temporary files and logs
+*.log
+*.tmp
+debug*.html
+voe*.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
