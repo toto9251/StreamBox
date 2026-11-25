@@ -116,4 +116,4 @@ ssto-dl/
 
 ## ⚖️ Disclaimer
 
-This software is for educational and personal archival purposes only. Please respect copyright laws and the terms of service of any third-party providers.
+This tool is for educational purposes and software development learning only. The author (toto9251) assumes no liability for the use of this program or any potential damages caused by it. Users are responsible for their own actions. Please respect copyright laws and the legislation of your country and third-party providers.
