@@ -114,6 +114,14 @@ ssto-dl/
 
 ---
 
+## 🤝 Credits & Co-Creators
+
+Built with assistance from:
+- **Antigravity** (AI Coding Assistant by Google DeepMind)
+- **[Qwen](https://github.com/QwenLM)** (AI Assistant)
+
+---
+
 ## ⚖️ Disclaimer
 
 This tool is for educational purposes and software development learning only. The author (toto9251) assumes no liability for the use of this program or any potential damages caused by it. Users are responsible for their own actions. Please respect copyright laws and the legislation of your country and third-party providers.
